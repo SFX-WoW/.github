@@ -1,8 +1,0 @@
-{
-	"name": "Manual Lint",
-	"description": "A template for manually linting a Lua repo.",
-	"iconName": "workflow-icon",
-	"categories": [
-		"Lua"
-	]
-}
