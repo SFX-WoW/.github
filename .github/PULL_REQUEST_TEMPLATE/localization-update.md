@@ -1,11 +1,3 @@
----
-name: Localization Update
-about: Provide updated translations for a locale.
-title: '[Language] Update'
-labels: 'Type: Update'
-assignees: StormFX
----
-
 **Language**
 _Which language are you translating? Specify below and in the title. Eg: `enUS`_
 
