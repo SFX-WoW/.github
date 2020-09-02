@@ -1,20 +1,20 @@
 ---
 name: Feature Request
 about: Request a new feature or an improvement.
-title: ''
+title: 'Request: [Title]'
 labels: 'Type: Enhancement'
 assignees: StormFX
 ---
 
 **Game Version**
-_Which version of the game are you using?_
+_Which version of the game are you using? Eg: `Retail - 8.3.7`_
 
-Eg: `Retail - 8.3.7`
+[Game Version]
 
 **Add-On Version**
-_Which version of the add-on are you using?_
+_Which version of the add-on are you using? Eg: `8.3.0-Classic`_
 
-Eg: `8.3.0-Classic`
+[Add-On Version]
 
 **Is the improvement related to a problem?**
 _Provide a clear and concise description of the problem._
@@ -24,13 +24,13 @@ _Provide a clear and concise description of the problem._
 **Describe the Improvement**
 _Provide a clear and concise description of the improvement._
 
-[Description]
+[Improvement]
 
 **Code**
 _If applicable, provide any relevant code related to the improvement._
 
 ```text
-[Error Message]
+[Code]
 ```
 
 **Screenshots**

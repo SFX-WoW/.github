@@ -1,15 +1,15 @@
 ---
 name: Localization Update
 about: Provide updated translations for a locale.
-title: '[enUS] Update'
+title: '[Language] Update'
 labels: 'Type: Update'
 assignees: StormFX
 ---
 
 **Language**
-_Which language are you translating? Specify below and in the title._
+_Which language are you translating? Specify below and in the title. Eg: `enUS`_
 
-Eg: [enUS] 
+[Language]
 
 **Phrases**
 _Provide a list of translated phrases in `Lua` table-addition format:_

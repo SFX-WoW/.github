@@ -1,20 +1,20 @@
 ---
 name: Bug Report
 about: Report an error or unexpected behavior.
-title: ''
+title: 'Bug: [Title]'
 labels: 'Type: Bug'
 assignees: StormFX
 ---
 
 **Game Version**
-_Which version of the game are you experiencing this issue on?_
+_Which version of the game are you experiencing this issue on? Eg: `Retail - 8.3.7`_
 
-Eg: `Retail - 8.3.7`
+[Game Version]
 
 **Add-On Version**
-_Which version of the add-on are you experiencing this issue on?_
+_Which version of the add-on are you experiencing this issue on? Eg: `8.3.0-Classic`_
 
-Eg: `8.3.0-Classic`
+[Add-On Version]
 
 **Describe the Issue**
 _Provide a clear and concise description of the issue._
