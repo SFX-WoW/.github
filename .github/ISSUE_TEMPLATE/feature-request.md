@@ -22,7 +22,7 @@ _Provide a clear and concise description of the problem._
 [Description]
 
 **Describe the Improvement**
-_Provide a clear and concise description of the improvement you're requesting._
+_Provide a clear and concise description of the improvement._
 
 [Description]
 
@@ -39,6 +39,6 @@ _If applicable, add screenshots to help demonstrate the problem or improvement._
 [Screenshots]
 
 **Additional Information**
-_Provide any additional information that may be relevant to this issue._
+_Provide any additional information that may be relevant._
 
 [Information]
