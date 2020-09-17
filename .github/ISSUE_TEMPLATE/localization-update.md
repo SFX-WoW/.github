@@ -1,7 +1,7 @@
 ---
 name: Localization Update
 about: Provide updated translations for a locale.
-title: '[Language] Update'
+title: 'Update [Language]'
 labels: 'Type: Update'
 assignees: StormFX
 ---
