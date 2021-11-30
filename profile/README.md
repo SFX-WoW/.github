@@ -32,7 +32,7 @@ I'd like to extend my appreciation to those who've supported me on these project
 
 [Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
 [GitHub]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
-[PayPal]: https://www.paypal.me/stormfxi (Donate via PayPal)
+[PayPal]: https://www.paypal.com/donate/?hosted_button_id=EELAK9TC4W4KQ (Donate via PayPal)
 [Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
 
 [World of Warcraft]: https://worldofwarcraft.com
