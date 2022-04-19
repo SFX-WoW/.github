@@ -5,7 +5,7 @@
 
 ## Welcome
 
-Welcome to the project hub for my World of Warcraft add-ons. Here you'll find the source for all of my current projects.
+Welcome to the project hub for my World of Warcraft add-ons. Here you'll find the source for my current projects.
 
 ### Current Projects
 
@@ -25,6 +25,7 @@ Welcome to the project hub for my World of Warcraft add-ons. Here you'll find th
 I'd like to extend my appreciation to those who've supported me on these projects. Thank you! :heart:
 
 [![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
+[![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
 
 [Links]: #
 
