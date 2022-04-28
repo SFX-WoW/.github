@@ -18,7 +18,7 @@ body:
       options:
         - Retail
         - Classic
-        - The Burning Crusade Classic
+        - TBC Classic
     validations:
       required: true
   - type: input
