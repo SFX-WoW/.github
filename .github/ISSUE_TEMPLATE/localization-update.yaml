@@ -1,0 +1,41 @@
+name: Localization Update
+description: Provide updated translations for a locale.
+title: "Update: `LANG_CODE`"
+labels: "Type: Update"
+assignees:
+  - StormFX
+body:
+  - type: markdown
+    attributes:
+      value: >
+        > **Important:** Please make sure that you set the title appropriately by replacing `LANG_CODE` in the title with the appropriate language code.
+        For example, `enUS` would be for English. Language codes are listed on the left in the language drop-down.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: Which language are you translating? Select an option below.
+      options:
+        - deDE (German)
+        - esES (Spanish)
+        - frFR (French)
+        - itIT (Italizan)
+        - koKR (Korean)
+        - ptBR (Brazilian Portuguese)
+        - ruRU (Russian)
+        - zhCH (Simplified Chinese)
+        - zhTW (Traditional Chinese)
+    validations:
+      required: true
+  - type: textarea
+    id: phrases
+    attributes:
+      label: Phrases
+      description: Provide a list of translated phrases in Lua table-addition format.
+      placeholder: |
+        L["Phrase One"] = "Phrase One"
+        L["Phrase Two"] = "Phrase Two"
+        L["Phrase Three"] = "Phrase Three"
+      render: lua
+    validations:
+      required: true

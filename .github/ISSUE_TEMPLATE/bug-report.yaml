@@ -1,0 +1,73 @@
+name: Bug Report
+description: Report an error or unexpected behavior.
+title: "Bug: TITLE"
+labels: "Type: Bug"
+assignees:
+  - StormFX
+body:
+  - type: markdown
+    attributes:
+      value: >
+        > **Important:** Please make sure that you set the title by replacing the `TITLE` text in the title field with something appropriate.
+  - type: dropdown
+    id: game-flavor
+    attributes:
+      label: Game Flavor
+      description: Which flavor(s) of the game are you using? Select all that apply.
+      multiple: true
+      options:
+        - Retail
+        - Classic
+        - The Burning Crusade Classic
+    validations:
+      required: true
+  - type: input
+    id: game-version
+    attributes:
+      label: Game Version
+      description: Which version(s) of the game are you using? List any that apply.
+      placeholder: e.g. 9.2.5
+    validations:
+      required: true
+  - type: input
+    id: addon-version
+    attributes:
+      label: Add-On Version
+      description: Which version of the add-on are you using?
+      placeholder: e.g. 9.2.5
+    validations:
+      required: true
+  - type: textarea
+    id: issue-desc
+    attributes:
+      label: Description
+      description: Provide a clear and concise description of the issue.
+      placeholder: Describe what happened.
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Error Message
+      description: Provide any error messages that occurred.
+      placeholder: Paste any error messages.
+      render: text
+  - type: textarea
+    id: issue-steps
+    attributes:
+      label: Steps to Reproduce
+      description: Provide any steps that may help to reproduce the issue.
+      placeholder: |
+        1. Step One
+        2. Step Two
+        3. Step Three
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Provide links to any screenshots that may help to demonstrate the issue.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Provide any additional information that may be relevant to this issue.
