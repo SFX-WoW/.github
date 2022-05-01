@@ -1,14 +1,14 @@
 name: Wiki Update
-description: Report an issue with the Wiki.
+description: Report an issue with the Wiki or other documentation.
 title: "Wiki: TITLE"
-labels: "Type: Update"
+labels: [Documentation, New]
 assignees:
   - StormFX
 body:
   - type: markdown
     attributes:
       value: >
-        > **Important:** Please make sure that you set the title by replacing the `TITLE` text in the title field with something appropriate.
+        :warning: Please make sure that you set the title by replacing the `TITLE` text in the title field with something appropriate.
   - type: textarea
     id: issue-desc
     attributes:

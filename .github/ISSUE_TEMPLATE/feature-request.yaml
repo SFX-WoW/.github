@@ -1,14 +1,14 @@
 name: Feature Request
 description: Request a new feature or an enhancement.
 title: "Feature Request: TITLE"
-labels: "Type: Enhancement"
+labels: [Enhancement, New]
 assignees:
   - StormFX
 body:
   - type: markdown
     attributes:
       value: >
-        > **Important:** Please make sure that you set the title by replacing the `TITLE` text in the title field with something appropriate.
+        :warning: Please make sure that you set the title by replacing the `TITLE` text in the title field with something appropriate.
   - type: dropdown
     id: game-flavor
     attributes:
@@ -26,7 +26,7 @@ body:
     attributes:
       label: Game Version
       description: Which version(s) of the game are you using? List any that apply.
-      placeholder: e.g. 9.2.5
+      placeholder: e.g. 9.2.0
     validations:
       required: true
   - type: input
@@ -34,7 +34,7 @@ body:
     attributes:
       label: Add-On Version
       description: Which version of the add-on are you using?
-      placeholder: e.g. 9.2.5
+      placeholder: e.g. 9.2.1
     validations:
       required: true
   - type: textarea

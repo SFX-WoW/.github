@@ -1,14 +1,14 @@
 name: Localization Update
 description: Provide updated translations for a locale.
 title: "Update: `LANG_CODE`"
-labels: "Type: Update"
+labels: [Update, New]
 assignees:
   - StormFX
 body:
   - type: markdown
     attributes:
       value: >
-        > **Important:** Please make sure that you set the title appropriately by replacing `LANG_CODE` in the title with the appropriate language code.
+        :warning: Please make sure that you set the title appropriately by replacing `LANG_CODE` in the title with the appropriate language code.
         For example, `enUS` would be for English. Language codes are listed on the left in the language drop-down.
   - type: dropdown
     id: language
@@ -19,7 +19,7 @@ body:
         - deDE (German)
         - esES (Spanish)
         - frFR (French)
-        - itIT (Italizan)
+        - itIT (Italian)
         - koKR (Korean)
         - ptBR (Brazilian Portuguese)
         - ruRU (Russian)
