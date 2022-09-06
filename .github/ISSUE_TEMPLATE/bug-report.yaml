@@ -18,7 +18,7 @@ body:
       options:
         - Retail
         - Classic
-        - TBC Classic
+        - Wrath Classic
     validations:
       required: true
   - type: input
@@ -26,7 +26,7 @@ body:
     attributes:
       label: Game Version
       description: Which version(s) of the game are you experiencing the issue on? List any that apply.
-      placeholder: e.g. 9.2.0
+      placeholder: e.g. 9.2.7
     validations:
       required: true
   - type: input
@@ -34,7 +34,7 @@ body:
     attributes:
       label: Add-On Version
       description: Which version of the add-on are you using?
-      placeholder: e.g. 9.2.1
+      placeholder: e.g. 9.2.7
     validations:
       required: true
   - type: textarea
