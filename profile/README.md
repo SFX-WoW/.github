@@ -6,21 +6,21 @@
 
 ## Welcome
 
-Welcome to the project hub for my World of Warcraft add-ons. Here you'll find the source for my current projects.
+Welcome to the project hub for my [World of Warcraft] add-ons. Here you'll find the source and the most up-to-date releases for my current projects.
 
 ### Current Projects
 
-- [AceGUI-3.0: SFX Widgets](https://github.com/SFX-WoW/AceGUI-3.0_SFX-Widgets)
-- [Masque](https://github.com/SFX-WoW/Masque)
-- [Masque: Apathy](https://github.com/SFX-WoW/Masque_Apathy)
-- [Masque: Caith](https://github.com/SFX-WoW/Masque_Caith)
-- [Masque: Cirque](https://github.com/SFX-WoW/Masque_Cirque)
-- [Masque: Entropy](https://github.com/SFX-WoW/Masque_Entropy)
-- [Masque: Fusion](https://github.com/SFX-WoW/Masque_Fusion)
-- [Masque: Gears](https://github.com/SFX-WoW/Masque_Gears)
-- [Masque: LiteStep](https://github.com/SFX-WoW/Masque_LiteStep)
-- [Masque: Onyx](https://github.com/SFX-WoW/Masque_Onyx)
-- [Masque: Serenity](https://github.com/SFX-WoW/Masque_Serenity)
+- [AceGUI-3.0: SFX Widgets](https://github.com/SFX-WoW/AceGUI-3.0_SFX-Widgets "SFX Widgets Project Page")
+- [Masque](https://github.com/SFX-WoW/Masque "Masque Project Page")
+- [Masque: Apathy](https://github.com/SFX-WoW/Masque_Apathy "Masque: Apathy Project Page")
+- [Masque: Caith](https://github.com/SFX-WoW/Masque_Caith "Masque: Caith Project Page")
+- [Masque: Cirque](https://github.com/SFX-WoW/Masque_Cirque "Masque: Cirque Project Page")
+- [Masque: Entropy](https://github.com/SFX-WoW/Masque_Entropy "Masque: Entropy Project Page")
+- [Masque: Fusion](https://github.com/SFX-WoW/Masque_Fusion "Masque: Fusion Project Page")
+- [Masque: Gears](https://github.com/SFX-WoW/Masque_Gears "Masque: Gears Project Page")
+- [Masque: LiteStep](https://github.com/SFX-WoW/Masque_LiteStep "Masque: LiteStep Project Page")
+- [Masque: Onyx](https://github.com/SFX-WoW/Masque_Onyx "Masque: Onyx Project Page")
+- [Masque: Serenity](https://github.com/SFX-WoW/Masque_Serenity "Masque: Serenity Project Page")
 
 ### Supporters
 
@@ -30,9 +30,7 @@ I'd like to extend my appreciation to those who've supported me on these project
 [![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
 [![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
 
-[Links]: #
-
-[Top]: #Top
+[//]: # (Links)
 
 [Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
 [Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
@@ -40,9 +38,9 @@ I'd like to extend my appreciation to those who've supported me on these project
 [PayPal]: https://www.paypal.com/donate/?hosted_button_id=EELAK9TC4W4KQ (Donate via PayPal)
 [Kofi]: https://ko-fi.com/StormFX (Donate via Ko-fi)
 
-[World of Warcraft]: https://worldofwarcraft.com
+[World of Warcraft]: https://worldofwarcraft.com (Visit World of Warcraft)
 
-[Images]: #
+[//]: # (Images)
 
 [SVG-Discord]: https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=fff&style=flat-square
 [SVG-Twitter]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat-square
