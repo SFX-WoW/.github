@@ -31,7 +31,7 @@ I'd like to extend my appreciation to those who've supported me on these project
 [![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
 [![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
 [![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
-[![Quissi](https://github.com/Quissi.png?size=50)](https://github.com/Stormseer "Quissi")
+<a href="https://github.com/Qissir"><img src="https://github.com/identicons/qissi.png" height="50" width="50" title="Qissi"></a>
 
 [//]: # (Links)
 
