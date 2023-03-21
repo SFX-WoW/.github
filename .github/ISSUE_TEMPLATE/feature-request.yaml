@@ -1,7 +1,7 @@
 name: Feature Request
 description: Request a new feature or an enhancement.
 title: "Feature Request: TITLE"
-labels: [Enhancement, New]
+labels: ["Enhancement", "New"]
 assignees:
   - StormFX
 body:
@@ -26,7 +26,7 @@ body:
     attributes:
       label: Game Version
       description: Which version(s) of the game are you using? List any that apply.
-      placeholder: e.g. 10.0.0
+      placeholder: e.g. 10.7.0
     validations:
       required: true
   - type: input
@@ -34,7 +34,7 @@ body:
     attributes:
       label: Add-On Version
       description: Which version of the add-on are you using?
-      placeholder: e.g. 10.0.1
+      placeholder: e.g. 10.7.0
     validations:
       required: true
   - type: textarea
