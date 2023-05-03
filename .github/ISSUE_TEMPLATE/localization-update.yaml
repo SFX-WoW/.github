@@ -1,7 +1,7 @@
 name: Localization Update
 description: Provide updated translations for a locale.
 title: "Update: `LANG_CODE`"
-labels: ["Localization", "New", "Update"]
+labels: [Localization, New, Update]
 assignees:
   - StormFX
 body:
