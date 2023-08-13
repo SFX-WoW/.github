@@ -1,9 +1,9 @@
 name: Localization Update
-description: Provide updated translations for a locale.
 title: "Update: `LANG_CODE`"
-labels: [Localization, New, Update]
-assignees:
-  - StormFX
+description: Provide updated translations for a locale.
+assignees: ["StormFX"]
+labels: ["Localization", "New", "Update"]
+projects: ["SFX-WoW/6"]
 body:
   - type: markdown
     attributes:

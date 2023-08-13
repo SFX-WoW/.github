@@ -1,9 +1,9 @@
 name: Wiki Update
-description: Report an issue with the Wiki or other documentation.
 title: "Wiki: TITLE"
-labels: [Documentation, New, Update]
-assignees:
-  - StormFX
+description: Report an issue with the Wiki or other documentation.
+assignees: ["StormFX"]
+labels: ["Documentation", "New", "Update"]
+projects: ["SFX-WoW/7"]
 body:
   - type: markdown
     attributes:
