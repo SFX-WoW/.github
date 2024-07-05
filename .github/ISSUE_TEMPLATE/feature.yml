@@ -21,7 +21,7 @@ body:
         - Retail Beta
         - Classic Era
         - Classic Cataclysm
-      default: 1
+      default: 0
     validations:
       required: true
   - type: input
@@ -29,7 +29,7 @@ body:
     attributes:
       label: Game Version
       description: Which version(s) of the game are you using? List any that apply.
-      placeholder: e.g. 10.2.8
+      placeholder: e.g. 10.2.7
     validations:
       required: true
   - type: input
