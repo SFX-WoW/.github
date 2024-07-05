@@ -28,10 +28,11 @@ Welcome to the project hub for my [World of Warcraft] add-ons. Here you'll find 
 
 I'd like to extend my appreciation to those who've supported me on these projects. Thank you! :heart:
 
-[![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
+[![Aevari](https://github.com/zofia1347.png?size=50)](https://github.com/zofia1347 "Aevari")
 [![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
 [![Mayron](https://github.com/Mayron.png?size=50)](https://github.com/Mayron "Mayron")
 <a href="https://github.com/Qissi"><img src="https://github.com/identicons/Qissi.png" height="50" width="50" title="Qissi"></a>
+[![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
 [![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
 
 [//]: # (Links)
