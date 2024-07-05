@@ -16,7 +16,6 @@ body:
       description: Which flavor(s) of the game are you using? Select all that apply.
       multiple: true
       options:
-        - All Flavors
         - Retail
         - Retail Beta
         - Classic Era
