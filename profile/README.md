@@ -15,6 +15,7 @@ Welcome to the project hub for my [World of Warcraft] add-ons. Here you'll find 
 - [Masque: Apathy](https://github.com/SFX-WoW/Masque_Apathy "Masque: Apathy Project Page")
 - [Masque: Caith](https://github.com/SFX-WoW/Masque_Caith "Masque: Caith Project Page")
 - [Masque: Cirque](https://github.com/SFX-WoW/Masque_Cirque "Masque: Cirque Project Page")
+- [Masque: Darion](https://github.com/SFX-WoW/Masque_Darion "Masque: Darion Project Page")
 - [Masque: Dominos](https://github.com/SFX-WoW/Masque_Dominos "Masque: Dominos Project Page")
 - [Masque: Entropy](https://github.com/SFX-WoW/Masque_Entropy "Masque: Entropy Project Page")
 - [Masque: Fusion](https://github.com/SFX-WoW/Masque_Fusion "Masque: Fusion Project Page")
