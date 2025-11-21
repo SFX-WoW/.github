@@ -34,6 +34,9 @@ I'd like to extend my appreciation to those who've supported me on these project
 <a href="https://github.com/Qissi"><img src="https://github.com/identicons/Qissi.png" height="50" width="50" title="Qissi"></a>
 [![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
 [![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
+<a href="https://github.com/sandtrout-github"><img src="https://github.com/identicons/sandtrout-github.png" height="50" width="50" title="SandTrout"></a>
+
+- ElectricPulse
 
 [//]: # (Links)
 
