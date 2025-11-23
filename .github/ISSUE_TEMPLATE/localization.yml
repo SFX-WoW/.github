@@ -1,11 +1,11 @@
 name: Localization Update
-title: 'Localization: `laNG`'
+title: "Localization: `laNG`"
 description: Provide updated translations for a locale.
 assignees:
   - StormFX
 labels:
-  - Type: Localization
-  - Status: New
+  - "Type: Localization"
+  - "Status: New"
 projects:
   - SFX-WoW/6
 body:

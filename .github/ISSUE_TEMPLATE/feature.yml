@@ -1,11 +1,11 @@
 name: Feature Request
-title: 'Enhancement: Title'
+title: "Enhancement: Title"
 description: Request a new feature or an enhancement.
 assignees:
   - StormFX
 labels:
-  - Type: Enhancement
-  - Status: New
+  - "Type: Enhancement"
+  - "Status: New"
 projects:
   - SFX-WoW/6
 body:

@@ -1,11 +1,11 @@
 name: Bug Report
-title: 'Bug: Title'
+title: "Bug: Title"
 description: Report an error or unexpected behavior.
 assignees:
   - StormFX
 labels:
-  - Type: Bug
-  - Status: New
+  - "Type: Bug"
+  - "Status: New"
 projects:
   - SFX-WoW/6
 body:

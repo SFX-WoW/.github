@@ -1,11 +1,11 @@
 name: Documentation Update
-title: 'Documentation: Title'
+title: '"Documentation: Title"
 description: Report an issue with the Wiki or other documentation.
 assignees:
   - StormFX
 labels:
-  - Type: Documentation
-  - Status: New
+  - "Type: Documentation"
+  - "Status: New"
 projects:
   - SFX-WoW/7
 body:
