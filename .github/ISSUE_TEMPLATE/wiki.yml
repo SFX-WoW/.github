@@ -1,14 +1,19 @@
-name: Wiki Update
-title: "Wiki: TITLE"
+name: Documentation Update
+title: 'Documentation: Title'
 description: Report an issue with the Wiki or other documentation.
-assignees: ["StormFX"]
-labels: ["Documentation", "New", "Update"]
-projects: ["SFX-WoW/7"]
+assignees:
+  - StormFX
+labels:
+  - Type: Documentation
+  - Status: New
+projects:
+  - SFX-WoW/7
 body:
   - type: markdown
     attributes:
-      value: >
-        :warning: Please make sure that you set the title by replacing the `TITLE` text in the title field with something appropriate.
+      value: |
+        <!-- Form-Type: Documentation -->
+        :warning: Please make sure that you set the title by replacing the `Title` text in the title field with something appropriate.
   - type: textarea
     id: issue-desc
     attributes:
