@@ -6,6 +6,7 @@ assignees:
 labels:
   - "Type: Documentation"
   - "Status: New"
+type: Documentation
 projects:
   - SFX-WoW/7
 body:

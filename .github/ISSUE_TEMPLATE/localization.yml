@@ -6,6 +6,7 @@ assignees:
 labels:
   - "Type: Localization"
   - "Status: New"
+type: Localization
 projects:
   - SFX-WoW/6
 body:

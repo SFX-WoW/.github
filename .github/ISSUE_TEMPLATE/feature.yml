@@ -6,6 +6,7 @@ assignees:
 labels:
   - "Type: Enhancement"
   - "Status: New"
+type: Enhancement
 projects:
   - SFX-WoW/6
 body:
