@@ -4,7 +4,6 @@ description: Report an error or unexpected behavior.
 assignees:
   - StormFX
 labels:
-  - "Type: Bug"
   - "Status: New"
 type: Bug
 projects:

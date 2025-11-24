@@ -4,7 +4,6 @@ description: Report an issue with the Wiki or other documentation.
 assignees:
   - StormFX
 labels:
-  - "Type: Documentation"
   - "Status: New"
 type: Documentation
 projects:

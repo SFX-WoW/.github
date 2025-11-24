@@ -4,7 +4,6 @@ description: Provide updated translations for a locale.
 assignees:
   - StormFX
 labels:
-  - "Type: Localization"
   - "Status: New"
 type: Localization
 projects:
