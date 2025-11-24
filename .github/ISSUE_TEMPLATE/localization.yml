@@ -4,7 +4,7 @@ description: Provide updated translations for a locale.
 assignees:
   - StormFX
 labels:
-  - "Status: New"
+  - New
 type: Localization
 projects:
   - SFX-WoW/6

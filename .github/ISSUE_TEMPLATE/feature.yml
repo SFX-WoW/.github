@@ -4,7 +4,7 @@ description: Request a new feature or an enhancement.
 assignees:
   - StormFX
 labels:
-  - "Status: New"
+  - New
 type: Enhancement
 projects:
   - SFX-WoW/6

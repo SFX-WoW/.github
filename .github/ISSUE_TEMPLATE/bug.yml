@@ -4,7 +4,7 @@ description: Report an error or unexpected behavior.
 assignees:
   - StormFX
 labels:
-  - "Status: New"
+  - New
 type: Bug
 projects:
   - SFX-WoW/6

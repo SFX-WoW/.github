@@ -4,7 +4,7 @@ description: Report an issue with the Wiki or other documentation.
 assignees:
   - StormFX
 labels:
-  - "Status: New"
+  - New
 type: Documentation
 projects:
   - SFX-WoW/7
