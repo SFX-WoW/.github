@@ -29,13 +29,13 @@ Welcome to the project hub for my [World of Warcraft] add-ons. Here you'll find 
 
 I'd like to extend my appreciation to those who've supported me on these projects. Thank you! :heart:
 
-<a href="https://github.com/zofia1347"><img src="https://github.com/identicons/zofia1347.png" height="50" width="50" title="Aevari"></a>
-[![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
-[![Mayron](https://github.com/Mayron.png?size=50)](https://github.com/Mayron "Mayron")
-<a href="https://github.com/Qissi"><img src="https://github.com/identicons/Qissi.png" height="50" width="50" title="Qissi"></a>
-[![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
-[![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
-<a href="https://github.com/sandtrout-github"><img src="https://github.com/identicons/sandtrout-github.png" height="50" width="50" title="SandTrout"></a>
+<a href="https://github.com/zofia1347"><img src="https://github.com/identicons/zofia1347.png" height="50" width="50"></a>
+<a href="https://github.com/AmenitradieDruidin"><img src="https://github.com/identicons/AmenitradieDruidin.png" height="50" width="50"></a>
+<a href="https://github.com/Mayron"><img src="https://github.com/identicons/Mayron.png" height="50" width="50"></a>
+<a href="https://github.com/Qissi"><img src="https://github.com/identicons/Qissi.png" height="50" width="50"></a>
+<a href="https://github.com/S9Th"><img src="https://github.com/identicons/S9Th.png" height="50" width="50"></a>
+<a href="https://github.com/Stormseer"><img src="https://github.com/identicons/Stormseer.png" height="50" width="50"></a>
+<a href="https://github.com/sandtrout-github"><img src="https://github.com/identicons/sandtrout-github.png" height="50" width="50"></a>
 
 - ElectricPulse
 
