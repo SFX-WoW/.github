@@ -29,7 +29,7 @@ Welcome to the project hub for my [World of Warcraft] add-ons. Here you'll find 
 
 I'd like to extend my appreciation to those who've supported me on these projects. Thank you! :heart:
 
-[![Amenitra](https://avatars.githubusercontent.com/u/73046345?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
+[![Amenitra](https://avatars.githubusercontent.com/u/AmenitradieDruidin?s=50)](https://github.com/AmenitradieDruidin "Amenitra")
 <a href="https://github.com/zofia1347"><img src="https://avatars.githubusercontent.com/u/73046345" height="50" width="50"></a>
 <a href="https://github.com/AmenitradieDruidin"><img src="https://github.com/identicons/AmenitradieDruidin.png" height="50" width="50"></a>
 <a href="https://github.com/Mayron"><img src="https://github.com/identicons/Mayron.png" height="50" width="50"></a>
