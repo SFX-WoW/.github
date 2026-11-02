@@ -27,25 +27,8 @@ To report an issue with the wiki, use the issue tracker for the project and sele
 
 ## Localization
 
-To submit localization updates, choose one of the following options.
-
-### Localization System
-
-[WoW Ace](https://www.wowace.com) has a localization system in place that simplifies submitting translations. This is the recommended method of providing updates. Links to a project's localization system can be found in that project's `README.md` file.
-
-### Issue Template
-
-An issue template for submitting translations has been provided for all projects. To use this method, select the **`Localization Update`** template in the project's issue tracker.
-
-### Pull Request
-
-_See the following section on pull requests._
+To submit localization updates, use the localization system on [CurseForge](https://www.curseforge.com). A link to that project's localization page can be found on its project page.
 
 ## Pull Requests
 
-Pull requests are only accepted for localization updates. All other submissions must be made via the project's issue tracker. When submitting translations via a pull request, keep in mind the following:
-
-- Commits must be simple and concise, preceded by a dash and a space. Eg:
-  - `- Update enUS.`
-- When updating a localization file, only edit what needs to be edited. 
-- All edits will be checked locally and validated with LuaCheck.
+To submit any code changes, use the issue system. I generally do not accept pull requests.
