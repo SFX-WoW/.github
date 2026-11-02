@@ -29,15 +29,13 @@ Welcome to the project hub for my [World of Warcraft] add-ons. Here you'll find 
 
 I'd like to extend my appreciation to those who've supported me on these projects. Thank you! :heart:
 
-[![Amenitra](https://avatars.githubusercontent.com/u/AmenitradieDruidin?s=50)](https://github.com/AmenitradieDruidin "Amenitra")
-<a href="https://github.com/zofia1347"><img src="https://avatars.githubusercontent.com/u/73046345" height="50" width="50"></a>
-<a href="https://github.com/AmenitradieDruidin"><img src="https://github.com/identicons/AmenitradieDruidin.png" height="50" width="50"></a>
-<a href="https://github.com/Mayron"><img src="https://github.com/identicons/Mayron.png" height="50" width="50"></a>
-<a href="https://github.com/Qissi"><img src="https://github.com/identicons/Qissi.png" height="50" width="50"></a>
-<a href="https://github.com/S9Th"><img src="https://github.com/identicons/S9Th.png" height="50" width="50"></a>
-<a href="https://github.com/Stormseer"><img src="https://github.com/identicons/Stormseer.png" height="50" width="50"></a>
-<a href="https://github.com/sandtrout-github"><img src="https://github.com/identicons/sandtrout-github.png" height="50" width="50"></a>
-
+- <a href="https://github.com/zofia1347">Aevari</a>
+- <a href="https://github.com/AmenitradieDruidin">Amenitra</a>
+- <a href="https://github.com/Mayron">Mayron</a>
+- <a href="https://github.com/Qissi">Qissi</a>
+- <a href="https://github.com/S9Th">S9th</a>
+- <a href="https://github.com/Stormseer">Stormseer</a>
+- <a href="https://github.com/sandtrout-github">SandTrout</a>
 - ElectricPulse
 
 [//]: # (Links)
